@@ -1,0 +1,151 @@
+vocabulary:
+  name: US Central Command Vocabulary
+  description: >-
+    Domain vocabulary for the US Central Command (CENTCOM), covering military
+    command structures, operational concepts, geographic areas of responsibility,
+    partner nation relationships, and US Department of Defense terminology
+    relevant to the CENTCOM area of responsibility.
+  version: '1.0'
+  created: '2026-05-03'
+  modified: '2026-05-03'
+  tags:
+    - Federal Government
+    - Military
+    - Department of Defense
+    - National Security
+
+terms:
+  - term: Unified Combatant Command
+    definition: >-
+      A military command with broad and continuing missions under a single
+      commander and composed of significant assigned components of two or more
+      military departments. CENTCOM is one of eleven unified combatant commands
+      of the US Department of Defense.
+
+  - term: Area of Responsibility (AOR)
+    abbreviation: AOR
+    definition: >-
+      The geographic region assigned to a combatant command for which the
+      commander has authority to plan and conduct operations. CENTCOM's AOR
+      covers 21 countries in the Middle East, Central Asia, and East Africa.
+
+  - term: Commander, US Central Command (CCDR)
+    abbreviation: CCDR
+    definition: >-
+      The four-star general or admiral who commands US Central Command,
+      responsible for all US military operations within the CENTCOM AOR.
+      Reports to the Secretary of Defense and the President.
+
+  - term: Joint Force
+    definition: >-
+      A general term applied to forces composed of significant elements of
+      two or more military departments operating under a single commander.
+      CENTCOM conducts joint force operations across Army, Navy, Air Force,
+      Marine Corps, Space Force, and special operations forces.
+
+  - term: Theater
+    definition: >-
+      The geographic area outside the continental United States for which a
+      commander of a combatant command has been assigned responsibility.
+      CENTCOM's theater encompasses the Middle East and Central Asia.
+
+  - term: Partner Nation
+    definition: >-
+      A nation with which the United States works to achieve mutual security
+      objectives. CENTCOM maintains partnerships with 21 nations in its AOR
+      to promote regional stability and address shared security challenges.
+
+  - term: Coalition Forces
+    definition: >-
+      Military forces from multiple nations cooperating to achieve common
+      security objectives. CENTCOM leads and coordinates coalition operations
+      in its area of responsibility.
+
+  - term: Operational Command
+    definition: >-
+      Authority to perform those functions of command over subordinate forces
+      involving organizing and employing commands and forces, assigning tasks,
+      designating objectives, and giving authoritative direction.
+
+  - term: Component Command
+    definition: >-
+      A command consisting of the commander and all those defense forces that
+      have been assigned to a unified command and represent a single Service.
+      CENTCOM components include ARCENT, AFCENT, NAVCENT, MARCENT, and SOCCENT.
+
+  - term: ARCENT
+    definition: >-
+      US Army Central — the Army component command of CENTCOM, headquartered
+      at Shaw Air Force Base, South Carolina.
+
+  - term: AFCENT
+    definition: >-
+      US Air Forces Central — the Air Force component command of CENTCOM.
+
+  - term: NAVCENT
+    definition: >-
+      US Naval Forces Central Command — the Navy component command of CENTCOM,
+      headquartered in Bahrain.
+
+  - term: MARCENT
+    definition: >-
+      US Marine Corps Forces Central Command — the Marine Corps component
+      of CENTCOM.
+
+  - term: SOCCENT
+    definition: >-
+      US Special Operations Command Central — the special operations component
+      of CENTCOM.
+
+  - term: Freedom of Navigation
+    abbreviation: FON
+    definition: >-
+      Operations or activities conducted to assert and preserve navigation
+      rights and freedoms in international waters, including in the Persian
+      Gulf, Red Sea, and Arabian Sea within the CENTCOM AOR.
+
+  - term: Theater Security Cooperation
+    abbreviation: TSC
+    definition: >-
+      All Department of Defense interactions with foreign defense establishments
+      to build defense relationships that promote specific US security interests
+      and strengthen allied and friendly nation capabilities for self-defense
+      and coalition operations.
+
+  - term: Counterterrorism
+    abbreviation: CT
+    definition: >-
+      Activities and operations taken to neutralize terrorists and their
+      organizations and networks in order to render them incapable of using
+      violence to instill fear and coerce governments or societies to achieve
+      their goals. A key CENTCOM mission area.
+
+geographic_coverage:
+  region: Middle East, Central Asia, and Parts of East Africa
+  countries:
+    - Afghanistan
+    - Bahrain
+    - Egypt
+    - Iran
+    - Iraq
+    - Jordan
+    - Kazakhstan
+    - Kuwait
+    - Kyrgyzstan
+    - Lebanon
+    - Oman
+    - Pakistan
+    - Qatar
+    - Saudi Arabia
+    - Syria
+    - Tajikistan
+    - Turkmenistan
+    - United Arab Emirates
+    - Uzbekistan
+    - Yemen
+
+headquarters:
+  location: MacDill Air Force Base
+  city: Tampa
+  state: Florida
+  country: United States
