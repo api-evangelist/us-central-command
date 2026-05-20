@@ -25,6 +25,9 @@ modified: '2026-05-03'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/us-central-command/refs/heads/main/apis.yml
 specificationVersion: '0.19'
+common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/u-s-central-command-uscentcom
 apis:
   - aid: us-central-command:us-central-command
     name: US Central Command
