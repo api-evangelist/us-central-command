@@ -28,6 +28,11 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/us-central-command.png
 tags:
+  - Federal-Government
+  - Military
+  - Department of Defense
+  - National Security
+tags_raw:
   - Federal Government
   - Military
   - Department of Defense
@@ -52,6 +57,13 @@ apis:
       website at centcom.mil.
     humanURL: https://www.centcom.mil
     tags:
+      - Federal-Government
+      - Military
+      - Department of Defense
+      - National Security
+      - Middle East
+      - Central Asia
+    tags_raw:
       - Federal Government
       - Military
       - Department of Defense
