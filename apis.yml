@@ -39,7 +39,7 @@ position: Consuming
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/us-central-command.png
 tags:
-  - Federal-Government
+  - Federal Government
   - Military
   - Department of Defense
   - National Security
@@ -48,6 +48,7 @@ tags_raw:
   - Military
   - Department of Defense
   - National Security
+  - Federal-Government
 created: '2024-12-03'
 modified: '2026-05-03'
 url: >-
@@ -68,7 +69,7 @@ apis:
       website at centcom.mil.
     humanURL: https://www.centcom.mil
     tags:
-      - Federal-Government
+      - Federal Government
       - Military
       - Department of Defense
       - National Security
@@ -81,6 +82,7 @@ apis:
       - National Security
       - Middle East
       - Central Asia
+      - Federal-Government
     properties:
       - type: Documentation
         url: https://www.centcom.mil
